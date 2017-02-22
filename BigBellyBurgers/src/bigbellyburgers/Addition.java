@@ -11,7 +11,7 @@ package bigbellyburgers;
  */
 public class Addition {
     private String name;
-    private double price;
+    private double price; 
 
     public Addition(String name, double price) {
         this.name = name;
